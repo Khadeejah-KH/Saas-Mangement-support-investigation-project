@@ -1,7 +1,0 @@
-"plan_id","plan_name","monthly_price","annual_price","max_users","api_requests_limit","integrations_limit","storage_limit_gb","support_level","analytics_enabled","api_access","webhooks_enabled","sso_enabled","sla_level"
-1,"Starter","0.00","0.00",2,1000,1,5,"Basic",0,0,0,0,""
-2,"Growth","99.00","990.00",5,10000,3,25,"Basic",1,1,1,0,"Standard"
-3,"Business","299.00","2990.00",15,50000,8,100,"Priority",1,1,1,0,"Standard"
-4,"Professional","599.00","5990.00",30,150000,15,250,"Priority",1,1,1,1,"Enhanced"
-5,"Enterprise","999.00","9990.00",75,500000,30,500,"Premium",1,1,1,1,"Premium"
-6,"Elite","1600.00","16000.00",200,2000000,100,2000,"Premium",1,1,1,1,"Premium"
