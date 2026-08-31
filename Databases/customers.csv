@@ -1,0 +1,47 @@
+customer_id,company_name,industry,company_size,country,city,region,contact_name,contact_role,contact_email,customer_since,account_status,segment,annual_revenue_range
+1,NordicCart AS,Retail,SMB,Germany,Cologne,Western Europe,Elias Taylor,CTO,contact@nordiccartas.com,2021-04-15,Active,SMB,€1M - €5M
+2,EuroShopify GmbH,Food & Beverage,SMB,Germany,Munich,Western Europe,Clara Wilson,Technical Lead,contact@euroshopifygmbh.com,2023-01-04,Active,SMB,€1M - €5M
+3,ParisMode SARL,Health & Beauty,Mid-Market,Ireland,Cork,Western Europe,Elena De Jong,Digital Manager,contact@parismodesarl.com,2021-08-09,Active,Mid-Market,€20M - €50M
+4,MilanFashion SRL,Retail,Mid-Market,Netherlands,The Hague,Western Europe,Laura De Jong,Technical Lead,contact@milanfashionsrl.com,2022-07-04,Active,Mid-Market,€5M - €20M
+5,BerlinTech Commerce,Home & Garden,Startup,Switzerland,Bern,Central Europe,Marco Kovacs,IT Manager,contact@berlintechcommerce.com,2021-08-22,Active,SMB,< €1M
+6,AmsterdamTrade BV,Electronics,Mid-Market,Hungary,Miskolc,Eastern Europe,Mila Jankauskas,IT Manager,contact@amsterdamtradebv.com,2021-12-30,Active,Mid-Market,€20M - €50M
+7,StockholmRetail AB,Home & Garden,SMB,Poland,Kraków,Central Europe,Lina Wolf,Head of Engineering,contact@stockholmretailab.com,2022-01-24,Active,SMB,€1M - €5M
+8,CopenhagenEcom ApS,Electronics,Mid-Market,Italy,Rome,Southern Europe,Hannah Ivanov,Head of Engineering,contact@copenhagenecomaps.com,2021-03-09,Active,Mid-Market,€20M - €50M
+9,ViennaDigital Handels,Home & Garden,Startup,Romania,Iași,Eastern Europe,Elias Taylor,Digital Manager,contact@viennadigitalhandels.com,2022-07-29,Active,SMB,< €1M
+10,ZurichCommerce AG,Retail,SMB,Spain,Barcelona,Southern Europe,Pierre Schulz,Operations Manager,contact@zurichcommerceag.com,2023-06-01,Suspended,SMB,€1M - €5M
+11,BrusselsEshop NV,E-commerce,SMB,Bulgaria,Sofia,Eastern Europe,Louis Nielsen,Technical Lead,contact@brusselseshopnv.com,2022-07-21,Active,SMB,€5M - €20M
+12,DublinEcom Ltd,Home & Garden,SMB,Italy,Turin,Southern Europe,Sophie Bianchi,IT Manager,contact@dublinecomltd.com,2023-01-10,Active,SMB,€5M - €20M
+13,HelsinkiMarket Oy,E-commerce,Startup,Croatia,Split,Southern Europe,Emily Ivanov,Product Manager,contact@helsinkimarketoy.com,2023-03-09,Active,SMB,< €1M
+14,OsloNettbutikk AS,Retail,Enterprise,Germany,Hamburg,Western Europe,Marco Garcia,IT Manager,contact@oslonettbutikkas.com,2021-09-04,Active,Enterprise,> €50M
+15,LisbonLoja Digital,Food & Beverage,Mid-Market,Germany,Munich,Central Europe,Oliver Moreau,Head of Engineering,contact@lisbonlojadigital.com,2023-06-13,Active,Mid-Market,€5M - €20M
+16,MadridTienda SL,Retail,SMB,Greece,Patras,Southern Europe,Jonas Mueller,Head of Engineering,contact@madridtiendasl.com,2021-08-19,Active,SMB,€5M - €20M
+17,BarcelonaEcom SL,Health & Beauty,Startup,Germany,Berlin,Central Europe,Jean Lopez,Head of Engineering,contact@barcelonaecomsl.com,2021-02-02,Active,SMB,< €1M
+18,RomeNegozio SRL,Sports & Outdoors,SMB,Croatia,Osijek,Southern Europe,Thomas Martin,Digital Manager,contact@romenegoziosrl.com,2022-08-08,Active,SMB,€1M - €5M
+19,PragueObchod sro,E-commerce,Mid-Market,Sweden,Stockholm,Northern Europe,Louis Hoffmann,IT Manager,contact@pragueobchodsro.com,2022-04-24,Active,Mid-Market,€20M - €50M
+20,WarsawSklep sp z o.o.,Sports & Outdoors,Mid-Market,Belgium,Ghent,Western Europe,Ingrid Taylor,Operations Manager,contact@warsawsklepspzoo.com,2021-07-14,Active,Mid-Market,€5M - €20M
+21,BudapestWebshop Kft,Retail,Enterprise,Greece,Thessaloniki,Southern Europe,Sofia Hoffmann,CTO,contact@budapestwebshopkft.com,2023-06-02,Active,Enterprise,€20M - €50M
+22,TallinnPood OÜ,Food & Beverage,Startup,Ireland,Cork,Western Europe,Sofia Dubois,Digital Manager,contact@tallinnpoodoü.com,2023-06-05,Active,SMB,€1M - €5M
+23,RigaVeikals SIA,Sports & Outdoors,Enterprise,Belgium,Ghent,Western Europe,Pierre Novak,Technical Lead,contact@rigaveikalssia.com,2022-12-15,Active,Enterprise,> €50M
+24,VilniusParduotuve UAB,Fashion,Mid-Market,Sweden,Stockholm,Northern Europe,Sofia Lopez,IT Manager,contact@vilniusparduotuveuab.com,2022-05-04,Active,Mid-Market,€5M - €20M
+25,LjubljanaTrgovina d.o.o.,Electronics,Mid-Market,Sweden,Stockholm,Northern Europe,Elias Wagner,CTO,contact@ljubljanatrgovinadoo.com,2022-08-07,Active,Mid-Market,€5M - €20M
+26,ZagrebTrgovina d.o.o.,Health & Beauty,Mid-Market,Austria,Salzburg,Central Europe,Thomas Berzins,Digital Manager,contact@zagrebtrgovinadoo.com,2021-07-29,Churned,Mid-Market,€20M - €50M
+27,BelgradeProdavnica DOO,E-commerce,SMB,Latvia,Liepāja,Northern Europe,Tim Becker,IT Manager,contact@belgradeprodavnicadoo.com,2021-03-16,Churned,SMB,€5M - €20M
+28,SofiaMagazin EOOD,Electronics,SMB,Switzerland,Geneva,Western Europe,Max Horvat,Operations Manager,contact@sofiamagazineood.com,2021-03-12,Churned,SMB,€1M - €5M
+29,BucharestMagazin SRL,Home & Garden,Mid-Market,Bulgaria,Varna,Eastern Europe,Mila Lindqvist,Operations Manager,contact@bucharestmagazinsrl.com,2022-07-22,Active,Mid-Market,€5M - €20M
+30,AthensKatastima EPE,Electronics,Mid-Market,Italy,Milan,Southern Europe,Matteo Popescu,Head of Engineering,contact@athenskatastimaepe.com,2022-09-12,Active,Mid-Market,€5M - €20M
+31,IstanbulE-Ticaret AS,Home & Garden,SMB,Slovenia,Maribor,Southern Europe,Markus Andersen,E-commerce Director,contact@istanbuleticaretas.com,2022-03-10,Active,SMB,€1M - €5M
+32,LondonEcom Ltd,E-commerce,Startup,Latvia,Daugavpils,Northern Europe,Hans Schmidt,Operations Manager,contact@londonecomltd.com,2022-03-14,Active,SMB,€1M - €5M
+33,ManchesterRetail Ltd,Home & Garden,Mid-Market,Austria,Linz,Central Europe,Max Bernard,E-commerce Director,contact@manchesterretailltd.com,2021-02-12,Active,Mid-Market,€5M - €20M
+34,BirminghamShop Ltd,Food & Beverage,Mid-Market,Latvia,Riga,Northern Europe,Leon Meier,Head of Engineering,contact@birminghamshopltd.com,2023-06-15,Suspended,Mid-Market,€20M - €50M
+35,EdinburghTrade Ltd,Food & Beverage,Enterprise,Lithuania,Vilnius,Northern Europe,Mila Tamm,Technical Lead,contact@edinburghtradeltd.com,2021-12-07,Active,Enterprise,€20M - €50M
+36,GlasgowEcom Ltd,Electronics,Startup,Lithuania,Klaipėda,Northern Europe,Tim Papadopoulos,Technical Lead,contact@glasgowecomltd.com,2021-08-16,Suspended,SMB,< €1M
+37,LyonBoutique SAS,Retail,Mid-Market,Norway,Oslo,Northern Europe,Lucas Papadopoulos,Digital Manager,contact@lyonboutiquesas.com,2023-06-05,Active,Mid-Market,€20M - €50M
+38,MarseilleCommerce SAS,E-commerce,Startup,Switzerland,Zurich,Central Europe,Elena Wagner,Digital Manager,contact@marseillecommercesas.com,2021-09-29,Active,SMB,€1M - €5M
+39,MunichHandel GmbH,Electronics,SMB,Croatia,Rijeka,Southern Europe,Nina Bernard,Digital Manager,contact@munichhandelgmbh.com,2022-08-14,Active,SMB,€1M - €5M
+40,HamburgEcom GmbH,Health & Beauty,Mid-Market,Switzerland,Bern,Western Europe,Leon Ivanov,IT Manager,contact@hamburgecomgmbh.com,2021-03-13,Active,Mid-Market,€5M - €20M
+41,FrankfurtDigital GmbH,Fashion,Mid-Market,Slovenia,Maribor,Southern Europe,Emma Brown,Digital Manager,contact@frankfurtdigitalgmbh.com,2021-10-30,Active,Mid-Market,€20M - €50M
+42,StuttgartShop GmbH,Food & Beverage,SMB,Estonia,Pärnu,Northern Europe,Elias Wagner,E-commerce Director,contact@stuttgartshopgmbh.com,2021-08-04,Active,SMB,€1M - €5M
+43,RotterdamTrade BV,Fashion,Mid-Market,Romania,Iași,Eastern Europe,Mila De Jong,Technical Lead,contact@rotterdamtradebv.com,2023-03-27,Suspended,Mid-Market,€20M - €50M
+44,AntwerpEcom BV,Electronics,Mid-Market,Poland,Łódź,Central Europe,Louis Petrovic,Head of Engineering,contact@antwerpecombv.com,2023-02-09,Suspended,Mid-Market,€5M - €20M
+45,GenevaBoutique SA,Retail,Startup,Norway,Oslo,Northern Europe,Tim Brown,Head of Engineering,contact@genevaboutiquesa.com,2023-02-26,Active,SMB,€1M - €5M
+46,LausanneDigital SA,Retail,SMB,Romania,Iași,Eastern Europe,David Kovacs,Operations Manager,contact@lausannedigitalsa.com,2023-06-01,Suspended,SMB,€1M - €5M
