@@ -1,0 +1,52 @@
+# Case Investigation Write-Up
+
+## 1. Overview
+
+The case affected a customer who reported 2 cased that ware escalted to the technical support team and they were able to investigate further in these cases. 
+
+## 2. Reported Issues
+
+### Ticket 49
+
+- Expected behavior: The API  requst compeletes a successfully.
+- Observed behavior: The API request intermittently timed out  - As reported
+
+### Ticket 50
+
+- Expected behavior: The hostname should have successfuly returned to regular endpoint. 
+- Observed behavior: intermittent resalution failure - as reported.
+
+
+## 3. Key Evidence
+
+### DNS
+- DNS resulations shows no error, no issue established shows on the network side, ticket #50. 
+-  frame 1346 - 1356 , for reference. 
+
+### TCP
+- Successful handshack , ticket #49
+- Frame 1371
+
+### HTTP
+- status service unavailble / returning to 503 as a failure response, ticket #49
+- Frame 1349 
+
+## 4. Findings 
+
+- DNS resolution was successfully observed for the captured requests.
+- The TCP three-way handshake was successfully completed for the connections captured. 
+- HTTP requests were observed reaching the application layer, with both successful responses and 
+  server-side error returning, including HTTP 503.
+- The packet caputured different behaviors in the network traffic during the case.
+- The PCAP doesn't provide suffcient information/ evidence to specifiy the root cause for the issues reported. 
+
+
+## 5. Hypotheses
+
+- [API key times out after looking up packet captured,the TCP shows as successful connection, however the connection returend as unsuccessful in HTTP connection, may be releavent to the application layer and a server side issue.] —   Ticket 49
+- [No definitive DNS failure was identified in the captured traffic, further investigation requires additional evidence with failed qureies/ configuration settings.] —      ticket #50
+  
+
+## 6. Next Steps
+ 
+ After Complete investigation by L1 Team with no root cause found, the case will be escalated to L2 for deeper investiagtion based on the data and PCAP files provided.

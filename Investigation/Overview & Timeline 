@@ -1,0 +1,48 @@
+Customer's Info: 
+Customer: BudapestWebshop Kft
+Integration: AWS S3 Sync
+Integration ID: 72
+Affected tickets: 49 & 50
+The customer has raised a ticket_id 49 & 50 at different timestamps, Technical Support Team Opened the ticket at the provided timeline :
+
+Ticket 49:
+
+Created: 2026-07-25 09:00:00
+Priority: Low
+Category: API
+Subject: API Issue - Requests timing out
+Status: Investigating
+Assigned team: Technical Support
+Customer impact: API requests intermittently timing out and failing to complete
+Ticket 50:
+
+Created: 2026-08-05 09:00:00
+Priority: High
+Category: Integration
+Subject: Integration Issue - Domain not resolving
+Status: Investigating
+Assigned team: Technical Support
+Customer impact: Integration domain intermittently resolves to an IP address instead of the expected domain endpoint
+
+Ticket 51:
+
+Created: 2024-04-28 00:00:00
+Status: Resolved
+This is historical context only.
+Ticket 122:
+
+Created: 2026-08-20 09:15:00
+Category: Billing
+Subject: Billing Issue - Unexpected charge
+Status: Escalated to Billing Support
+
+Investigation Timeline :
+START:
+2026-08-05 10:30:00
+
+END:
+2026-08-07 16:00:00
+
+
+Investigation/evidence collection begins:
+2026-08-05 10:30:00

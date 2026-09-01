@@ -1,0 +1,12 @@
+Ticket number 49
+The customer experinced API timeout checking the database associated with integration_id 72 showd 1 error therefore further investigation to check whether it was a network erorr was required and this case we used WireShark 
+
+
+Looking at frames number 1346 - 1356 shows that TCP connection went through as successful connection to port 443 yet it returned as unavaileble HTTP 503 respones. 
+[HTTP 503 failure evidence].screenshot
+
+Ticket 50 
+DNS is intermittnely changing to IP address
+By checking network traffic captures DNS frames it shows no error found. DNS resulation went successfuly at different stages. 
+[DNS resolution captured].screenshot
+
