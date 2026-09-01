@@ -28,7 +28,7 @@ The case affected a customer who reported 2 cased that ware escalted to the tech
 - Frame 1371
 
 ### HTTP
-- status service unavailble / returning to 503 as a failure response, ticket #49
+- status service unavailable / returning to 503 as a failure response, ticket #49
 - Frame 1349 
 
 ## 4. Findings 
